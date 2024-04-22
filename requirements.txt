@@ -1,4 +1,4 @@
-python==3.8
+python_version=="3.8"
 streamlit
 streamlit-option-menu
 pickle
