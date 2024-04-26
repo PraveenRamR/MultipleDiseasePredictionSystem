@@ -255,3 +255,4 @@ footer = """
 """
 st.markdown(footer, unsafe_allow_html=True)
 
+set_bg_from_url("https://static.vecteezy.com/system/resources/thumbnails/008/311/935/small/the-illustration-graphic-consists-of-abstract-background-with-a-blue-gradient-dynamic-shapes-composition-eps10-perfect-for-presentation-background-website-landing-page-wallpaper-vector.jpg", opacity=0.875)
