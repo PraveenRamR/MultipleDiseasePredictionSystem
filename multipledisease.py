@@ -255,5 +255,4 @@ footer = """
 """
 st.markdown(footer, unsafe_allow_html=True)
 
-st.
-set_bg_from_url("https://images.everydayhealth.com/homepage/health-topics-2.jpg?w=768", opacity=0.875)
+st.set_bg_from_url("https://images.everydayhealth.com/homepage/health-topics-2.jpg?w=768", opacity=0.875)
