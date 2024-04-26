@@ -242,4 +242,16 @@ if (selected == "Parkinsons Prediction"):
         
     st.success(parkinsons_diagnosis)
 
+footer = """
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <footer>
+        <div style='visibility: visible;margin-top:7rem;justify-content:center;display:flex;'>
+            <p style="font-size:1.1rem;">
+                Made by Praveen Ram R
+                &nbsp;
+            </p>
+        </div>
+    </footer>
+"""
+
 
