@@ -11,11 +11,11 @@ from streamlit_option_menu import option_menu
 
 #parkinsons_model = pickle.load(open('C:\Users\Dell\Documents\srm code\health education based infection disease\saved models\parkinsons_model.sav','rb'))
 
-diabetes_model = pickle.load(open('F:\HealthCare Data Analysis\saved models\diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('\saved models\diabetes_model.sav', 'rb'))
 
-heart_disease_model = pickle.load(open('F:\HealthCare Data Analysis\saved models\heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('Fsaved models\heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('F:\HealthCare Data Analysis\saved models\parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('\saved models\parkinsons_model.sav', 'rb'))
 
 
 
